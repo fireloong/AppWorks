@@ -40,14 +40,7 @@
     "iceworks-team.iceworks-doctor",
     "iceworks-team.iceworks-time-master",
     "iceworks-team.iceworks-refactor",
-    "iceworks-team.iceworks-generator",
-    "eamodio.gitlens",
-    "streetsidesoftware.code-spell-checker",
-    "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode",
-    "formulahendry.auto-rename-tag",
-    "xabikos.JavaScriptSnippets",
-    "burkeholland.simple-react-snippets"
+    "iceworks-team.iceworks-generator"
   ],
   "homepage": "https://github.com/apptools-lab/appworks/blob/master/extensions/appworks/README.md",
   "bugs": {
